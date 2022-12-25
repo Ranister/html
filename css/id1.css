@@ -1,0 +1,26 @@
+@charset "utf-8";
+body{
+    
+    
+background-color: burlywood;
+/* # para id
+. para class*/
+}
+h1{
+    color: chocolate; 
+    text-align: center;
+    
+
+}
+#principal{color: black;
+background-color: antiquewhite;
+border-top-right-radius:  5px;
+text-align: center;
+width: fit-content;
+}
+main{
+    
+    background-color: brown;
+
+border-radius: 5px 5px;
+box-shadow: 0px 0px 10px rgb(0, 0, 0);}
